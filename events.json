@@ -1,0 +1,47 @@
+[
+    {
+      "date": "January 24, 1997",
+      "time": "9:00AM",
+      "thing": "Joe's Birthday"
+    },
+    {
+      "date": "January 26 1997",
+      "time": "6:00AM",
+      "thing": "Andrew's Birthday"
+    },
+    {
+      "date": "November 1, 1998",
+      "time": "3:00AM",
+      "thing": "Quinn's Birthday"
+    },
+    {
+      "date": "May 19, 2019",
+      "time": "10:00AM",
+      "thing": "HWS Class of 2019 Graduation"
+    },
+    {
+      "date": "May 13, 2019",
+      "time": "1:30PM",
+      "thing": "CPSC 271 Presentations"
+    },
+    {
+      "date": "May 6, 1937",
+      "time": "7:25PM",
+      "thing": "The Hindenburg explodes"
+    },
+    {
+      "date": "July 1st, 2010",
+      "time": "12:00PM",
+      "thing": "Haskell 2010 Released"
+    },
+    {
+      "date": "May 19th, 2019",
+      "time": "9PM",
+      "thing": "Final episode of Game of Thrones"
+    },
+    {
+      "date": "July 4th, 1776",
+      "time": "6:00PM",
+      "thing": "America Declares Independence"
+    }
+  ]
